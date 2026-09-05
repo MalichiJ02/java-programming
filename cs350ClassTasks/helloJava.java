@@ -40,7 +40,6 @@ System.out.println("difference :"+difference);
 System.out.println("product :"+product);
 System.out.println("quotient :"+quotient);
 System.out.println("remainder :"+remainder);        
-System.out.println("thank you for using my program" );  
-System.out.println("t=====================================" );  
+
     }
     }
